@@ -1,0 +1,17 @@
+{
+    "name": "ASN_HW2_NodeJS",
+   "version": "0.0.0",
+  "description": "",
+  "main": "visualizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+	"aws-sdk":"*",
+	"express": "~3.3.5",
+    "ejs": "*",
+    "geohash": "*"
+  }
+}
